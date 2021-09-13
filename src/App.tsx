@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import ExerciseInputForm from "./ExerciseInputs";
 
 const ButtonTestComponent = () => {
     const [displayTest, setDisplayTest] = React.useState(false);
@@ -25,6 +26,7 @@ function App() {
     return (
         <div className="App">
             <ButtonTestComponent></ButtonTestComponent>
+            <ExerciseInputForm></ExerciseInputForm>
         </div>
     );
 }
