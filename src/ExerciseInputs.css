@@ -1,0 +1,16 @@
+form {
+    /* border-style: solid; */
+    background-color: #171717;
+    display: flex;
+    column-gap: 10px;
+    padding: 5px;
+}
+
+label {
+    color: white;
+}
+
+.labelledInput {
+    display: flex;
+    column-gap: 5px;
+}
