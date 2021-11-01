@@ -1,6 +1,5 @@
-# Raised Bar
-
-React app to record gym workouts.
+# Raised bar 
+Simple React app to record gym workouts.
 
 # Getting Started with Create React App
 
