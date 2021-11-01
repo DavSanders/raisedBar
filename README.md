@@ -1,3 +1,6 @@
+# Raised Bar
+Simple web app for inputting, and later displaying gym data. 
+
 # React TS Template
 
 This repo aims to save a little setup time with new react apps. It uses create react app with Typescript and a linter already configured.
