@@ -1,6 +1,6 @@
-# React TS Template
+# Raised Bar
 
-This repo aims to save a little setup time with new react apps. It uses create react app with Typescript and a linter already configured.
+React app to record gym workouts.
 
 # Getting Started with Create React App
 
